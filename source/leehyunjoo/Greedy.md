@@ -62,3 +62,7 @@ print(count)
 1. 이렇게 코드가 반복될때 coin_types 처럼 리스트로 넣으면 편하당 (중복성 제거!)
 2. 반복문 돌면서 더할 필요 없고 n//coin 해서 몫만큼 증가시키면 된당
 3. n%coin 해서 나머지만 남기면 되는구나... 오...
+
+
+### 관련 문제
+백준 : [그리디 알고리즘](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
